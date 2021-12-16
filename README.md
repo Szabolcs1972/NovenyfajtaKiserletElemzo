@@ -1,5 +1,9 @@
 # NovenyfajtaKiserletElemzo
 Data analisys of plant yield trials
+
+Az Install könyvtárban található NövényfajtaKísérletElemző.rar fájlt töltsük le.
+Csomagoljuk ki a számítógépen tetszőleges helyre!
+
 Telepítési információk:
 
 1. Rendszerkövetelmények
